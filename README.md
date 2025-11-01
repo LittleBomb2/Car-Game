@@ -1,18 +1,6 @@
 # Car-Game
 A 3D Car game made using pygame
-
- ________  ________  ________          ________  ________  _____ ______   _______           ________  ________     
-|\   ____\|\   __  \|\   __  \        |\   ____\|\   __  \|\   _ \  _   \|\  ___ \         |\_____  \|\   ___ \    
-\ \  \___|\ \  \|\  \ \  \|\  \       \ \  \___|\ \  \|\  \ \  \\\__\ \  \ \   __/|        \|____|\ /\ \  \_|\ \   
- \ \  \    \ \   __  \ \   _  _\       \ \  \  __\ \   __  \ \  \\|__| \  \ \  \_|/__            \|\  \ \  \ \\ \  
-  \ \  \____\ \  \ \  \ \  \\  \|       \ \  \|\  \ \  \ \  \ \  \    \ \  \ \  \_|\ \          __\_\  \ \  \_\\ \ 
-   \ \_______\ \__\ \__\ \__\\ _\        \ \_______\ \__\ \__\ \__\    \ \__\ \_______\        |\_______\ \_______\
-    \|_______|\|__|\|__|\|__|\|__|        \|_______|\|__|\|__|\|__|     \|__|\|_______|        \|_______|\|_______|
-                                                                                                                   
-                                                                                                                   
-                                                                                                                   
 Hello!
-Here you can find how to play CAR GAME 3D!
 
 ---------------------------------------
 TABLE OF CONTENTS:
@@ -26,8 +14,7 @@ TABLE OF CONTENTS:
 
 ---------------------------------------
 
-1) Running the game:
-
+1) Running the game: < br / >
     !!! As a warning for running this game, it will automatically download libraries pygame and numpy if they aren't already installed, since they are required to run the game !!!
 
 	Just double click the main.py script to run the game.
@@ -51,7 +38,7 @@ TABLE OF CONTENTS:
     4.1) IN GAME:
         Accelerate: W
         Brakes: S
-        Steering: A ja D.
+        Steering: A and D.
 	
 	    Cameras: 1, 2, 3 and 4
 
