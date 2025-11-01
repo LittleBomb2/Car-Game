@@ -8,8 +8,8 @@ TABLE OF CONTENTS:
 2) Setting the resolution:
 3) Setting a name:
 4) CONTROLS:
-    4.1) IN GAME:
-    4.2) IN REPLAYS:
+    - IN GAME:
+    - IN REPLAYS:
 5) CREDITS:
 
 ---------------------------------------
@@ -39,19 +39,19 @@ TABLE OF CONTENTS:
 ---------------------------------------
 
 4) CONTROLS: <br/>
-    4.1) IN GAME: <br/>
-        Accelerate: W <br/>
-        Brakes: S <br/>
-        Steering: A and D <br/>
-	    Cameras: 1, 2, 3 and 4 <br/>
+    - IN GAME: <br/>
+        - Accelerate: W <br/>
+        - Brakes: S <br/>
+        - Steering: A and D <br/>
+	    - Cameras: 1, 2, 3 and 4 <br/>
 
-    4.2) IN REPLAYS <br/>
-        Advance forward: Right Arrow key <br/>
-        Advance backward: Left Arrow key <br/>
-        Play/Pause: SPACEBAR<br/>
-        Cameras: 1, 2, 3 and 4 <br/>
-        Play Replay Again: M <br/>
-        Exiting: ESC <br/>
+    - IN REPLAYS <br/>
+        - Advance forward: Right Arrow key <br/>
+        - Advance backward: Left Arrow key <br/>
+        - Play/Pause: SPACEBAR<br/>
+        - Cameras: 1, 2, 3 and 4 <br/>
+        - Play Replay Again: M <br/>
+        - Exiting: ESC <br/>
 
 ---------------------------------------
 
