@@ -57,6 +57,6 @@ If you don't care about comparing highscores, you can leave that prompt empty, b
 
 ## 5) CREDITS: <br/>
 Creator: Väinö Urli 9D 2025 <br/>
-[G-Mail](https://vaino.urli@gmail.com) <br/>
+[G-Mail](mailto:vaino.urli@gmail.com) <br/>
 
 This game was made during a math period, where we were going through the basics of python. So instead of doing the assignments, I made this :D.
