@@ -51,16 +51,16 @@ TABLE OF CONTENTS:
     4.1) IN GAME:
         Accelerate: W
         Brakes: S
-        Steering: A ja D
+        Steering: A ja D.
 	
-	    Cameras: 1, 2, 3 ja 4
+	    Cameras: 1, 2, 3 and 4
 
     4.2) IN REPLAYS
         Advance forward: Right Arrowkey
         Advance backward: Left Arrowkey
         Play/Pause: SPACEBAR
         
-        Cameras: 1, 2, 3 ja 4
+        Cameras: 1, 2, 3 and 4
 
         Play Replay Again: M
         Exiting: ESC
