@@ -27,14 +27,19 @@ TABLE OF CONTENTS:
 ---------------------------------------
 
 1) Running the game:
+
     !!! As a warning for running this game, it will automatically download libraries pygame and numpy if they aren't already installed, since they are required to run the game !!!
+
 	Just double click the main.py script to run the game.
 
 2) Setting the resolution:
+
     As the game starts a command prompt should open asking for a resolution. First it will ask for width and then after height.
+
     If left empty it will default to 640 for width and 480 for height.
 
 3) Setting a name:
+
     This game supports a highscore system that is stored in a text file under scores.txt. 
     There are predefined highscores for the player to beat. To see your score compaired to others, you need to input a name while prompted.
 
