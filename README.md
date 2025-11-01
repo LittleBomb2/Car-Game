@@ -55,11 +55,14 @@ If you don't care about comparing highscores, you can leave that prompt empty, b
     - Exiting: ESC
 
 ---------------------------------------
+
 ## 5) Background music:
 This game supports background music, but because of copyright I cannot include it here (btw it was originally Hand of Blood, by Bullet for My Valentine :D).
 
 If you want to add background music, just put into the sound folder a wav file named "music.wav".
+
 ---------------------------------------
+
 ## 6) Credits:
 Creator: Väinö Urli 9D 2025
 [G-Mail](mailto:vaino.urli@gmail.com)
