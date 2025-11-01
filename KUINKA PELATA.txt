@@ -1,0 +1,57 @@
+ ________  ________  ________          ________  ________  _____ ______   _______           ________  ________     
+|\   ____\|\   __  \|\   __  \        |\   ____\|\   __  \|\   _ \  _   \|\  ___ \         |\_____  \|\   ___ \    
+\ \  \___|\ \  \|\  \ \  \|\  \       \ \  \___|\ \  \|\  \ \  \\\__\ \  \ \   __/|        \|____|\ /\ \  \_|\ \   
+ \ \  \    \ \   __  \ \   _  _\       \ \  \  __\ \   __  \ \  \\|__| \  \ \  \_|/__            \|\  \ \  \ \\ \  
+  \ \  \____\ \  \ \  \ \  \\  \|       \ \  \|\  \ \  \ \  \ \  \    \ \  \ \  \_|\ \          __\_\  \ \  \_\\ \ 
+   \ \_______\ \__\ \__\ \__\\ _\        \ \_______\ \__\ \__\ \__\    \ \__\ \_______\        |\_______\ \_______\
+    \|_______|\|__|\|__|\|__|\|__|        \|_______|\|__|\|__|\|__|     \|__|\|_______|        \|_______|\|_______|
+                                                                                                                   
+                                                                                                                   
+                                                                                                                   
+Moi, tässä on ohjeet kuinka pelata Car Game 3D
+
+1) Lataaminen
+	Hae alavasen nurkasta "Haku" paikasta "cmd" tai "komentokeskus" ja avaa komentokeskus
+
+	komentokeskuksessa kirjoita "pip install pygame"
+	odota kunnes lataus on valmis
+
+	ja sitten kirjoita "pip install numpy"
+
+2) Pelin pyörittäminen
+	Latauksien jälkeen tuplaklikkaa python scriptiä nimeltä "3D Car"
+
+Resoluution asettaminen:
+	Pelin aloitessa, peli kysyy sinulta resoluutiota. Tähän voi laittaa mitä vaan paitsi negatiivisia lukuja tai nolla. Koulun läppäreille suositellaan 
+	1536 leveys ja 864 korkeus ja kirjaston koneille suositellaan 1920 leveys ja 1080 korkeus. Jos sen jättää tyhjäksi resoluutioksi tulee 640x640, joka
+	on pelin perus asetus.
+
+Nimen laittaminen:
+	HUOM!! JOS ALOITAT PELIN JA SIINÄ NÄKYY JO HIGHSCORE JOKA EI OLE OMASI, SE ON JONKUN TOINEN KÄYTTÄJÄ. OLE KILTTI JA SULJE PELI JA VALITSE TOINEN NIMI.
+	
+	Peli kysyy sinulta nickname:iä pelin alussa.
+
+	Pelissä toimii highscore systeemi, jonka tiedot laitetaan teksti tiedostoon. Eli jos haluat tapella muita vastaan pelissä voit laittaa nimesi ja yrittää
+	saada paremmat pisteet. Jos laitat saman nimen kuin mitä sulla oli viimeksi, voit jatkaa parantaa highscorea samalla nimellä.
+
+	JOS ET HALUA HIGHSCOREASI laittaa kaikkien nähtäviksi, voit laittaa jättää tyhjäksi nimen kysyminen.
+
+Ohjaaminen Pelissä
+	Kaasu: W
+	Jarru: S
+	Ratti: A ja D
+	
+	Kameran vaihto: 1, 2, 3 ja 4.
+Ohjaaminen Replayssä:
+	Frame advance eteenpäin: oikea nuolinäppäin
+	Frame advance taaksepäin: vasen nuolinäppäin
+	Play/Pause: välilyönti
+	
+	Kameran vaihto: 1, 2, 3 ja 4.
+
+	Katso uudelleen: M
+	Poistuminen: ESC
+
+
+Tekijä Väinö Urli 9D 2025.
+g-mail: vaino.urli@gmail.com
