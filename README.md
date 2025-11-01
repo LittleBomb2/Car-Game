@@ -32,8 +32,8 @@ TABLE OF CONTENTS:
 
 	!!! FOR EVERYBODY'S ENJOYMENT, IF YOU INPUT A NAME AND IT ALREADY TELLS THAT YOU HAVE A HIGHSCORE (SEE TOP RIGHT) AND IT YOU HAVEN'T SET IT, PLEASE CLOSE THE GAME AND TRY ANOTHER NAME !!!
 
-4) CONTROLS:
-    4.1) IN GAME: <br/>
+**4) CONTROLS: **<br/>
+    **4.1) IN GAME: **<br/>
         Accelerate: W <br/>
         Brakes: S <br/>
         Steering: A and D <br/>
