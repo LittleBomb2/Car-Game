@@ -14,7 +14,7 @@ TABLE OF CONTENTS:
 
 ---------------------------------------
 
-1) Running the game: < br / >
+1) Running the game: <br/>
     !!! As a warning for running this game, it will automatically download libraries pygame and numpy if they aren't already installed, since they are required to run the game !!!
 
 	Just double click the main.py script to run the game.
