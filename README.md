@@ -1,9 +1,8 @@
 # Car-Game
 A 3D Car game made using pygame
-Hello!
 
 ---------------------------------------
-TABLE OF CONTENTS:
+## TABLE OF CONTENTS:
 1) Running the game:
 2) Setting the resolution:
 3) Setting a name:
@@ -57,6 +56,6 @@ TABLE OF CONTENTS:
 
 5) CREDITS: <br/>
     Creator: Väinö Urli 9D 2025 <br/>
-    G-Mail: vaino.urli@gmail.com <br/>
+    [G-Mail](vaino.urli@gmail.com) <br/>
 
     This game was made during a math period, where we were going through the basics of python. So instead of doing the assignments, I made this :D.
