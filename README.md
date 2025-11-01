@@ -6,10 +6,11 @@ A 3D Car game made using pygame
 1) Running the game:
 2) Setting the resolution:
 3) Setting a name:
-4) CONTROLS:
+4) Controls:
     - IN GAME:
     - IN REPLAYS:
-5) CREDITS:
+5) Background music
+6) Credits:
 
 ---------------------------------------
 
@@ -38,12 +39,12 @@ If you don't care about comparing highscores, you can leave that prompt empty, b
 
 ---------------------------------------
 
-## 4) CONTROLS: <br/>
-- IN GAME: <br/>
-    - Accelerate: W <br/>
-    - Brakes: S <br/>
-    - Steering: A and D <br/>
-    - Cameras: 1, 2, 3 and 4 <br/>
+## 4) Controls:
+- IN GAME:
+    - Accelerate: W 
+    - Brakes: S
+    - Steering: A and D
+    - Cameras: 1, 2, 3 and 4
 
 - IN REPLAYS <br/>
     - Advance forward: Right Arrow key <br/>
@@ -54,8 +55,9 @@ If you don't care about comparing highscores, you can leave that prompt empty, b
     - Exiting: ESC <br/>
 
 ---------------------------------------
-
-## 5) CREDITS: <br/>
+## 5) Background music:
+---------------------------------------
+## 6) Credits: <br/>
 Creator: Väinö Urli 9D 2025 <br/>
 [G-Mail](mailto:vaino.urli@gmail.com) <br/>
 
