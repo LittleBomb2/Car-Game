@@ -200,8 +200,11 @@ def main():
 
     #Sounds:
     point_sound = pygame.mixer.Sound("sounds/coin.wav")
-    pygame.mixer.music.load('sounds/music.wav')
-    pygame.mixer.music.play(-1)
+    try:
+        pygame.mixer.music.load('sounds/music.wav')
+        pygame.mixer.music.play(-1)
+    except:
+        print("No music found")
 
     highscore = 0
     
