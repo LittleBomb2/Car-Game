@@ -67,4 +67,4 @@ If you want to add background music, just put into the sound folder a wav file n
 Creator: Väinö Urli 9D 2025
 [G-Mail](mailto:vaino.urli@gmail.com)
 
-This game was made during a math period, where we were going through the basics of python. So instead of doing the assignments, I made this :D.
+This game was made during one period, where we were going through the basics of python. Because I already knew the basics of python, I made this instead of doing the assignments :D.
