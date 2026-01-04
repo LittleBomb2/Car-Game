@@ -41,12 +41,12 @@ except ValueError:
 try:
     screenHeight = int(screenHeight)
 except ValueError:
-    screenHeight = 640
+    screenHeight = 480
 
 if screenWidth <= 0:
     screenWidth = 640
 if screenHeight <= 0:
-    screenHeight = 640
+    screenHeight = 480
     
 screen = pygame.display.set_mode((screenWidth, screenHeight))
 
